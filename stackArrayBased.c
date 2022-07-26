@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdbool.h>
-#include <stdlib.h>
 #define StackEntry int
 #define MAXSTACK 20
 typedef struct stack {
