@@ -1,1 +1,1 @@
-# some_shitty_DS_code_in_C
+# some_DS_code_in_C
